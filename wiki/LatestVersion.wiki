@@ -1,0 +1,7 @@
+#summary Latest Version Page
+
+[http://0.9.5 latest_wordmobi_version]
+
+[http://wordmobi.googlecode.com/files/Wordmobi-0.8.1.sis wordmobi_sis_url]
+
+[http://wordmobi.googlecode.com/files/Wordmobi-0.9.5.sis wordmobi_sis_url_py19]

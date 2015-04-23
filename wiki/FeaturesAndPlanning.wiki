@@ -1,0 +1,69 @@
+#summary Desired features and enhancements
+#labels Featured
+
+= Current implemented features =
+
+ * Show a fixed number of recent posts
+ * Allow new posts with text and images. 
+ * Post management (new, delete, edit, visualization) 
+  * Insert->Links
+  * User friendly edition instead HTML
+  * Newlines preservation (instead explicit {{{<br>}}})
+  * Post status, allowing to post but not publish and to approve for publishing when desired
+ * Comments management (new, delete, edit, moderation) 
+ * Categories management (new, delete) 
+ * upgrade support
+ * Post title submission to twitter
+ * Multilingual support
+ * Proxy support
+ * Offline support for writing posts. Posts, categories and comments persistence.
+ * Support for Python 1.4.x and 1.9.x
+ * multiples wordpress accounts supported
+ * percentage size when adding images
+ * TAGs support
+ * Tag more supported
+ * Blog view statistics
+ * better camera support when taking photos
+
+= Partially implemented =
+
+ * Icons in all list views (I am not good with graphics ...)
+
+= Next feature to be implemented =
+
+ # Image resizing before upload to save bandwidth/upload time
+ # access point persistence
+ # upload to flickr
+ # multiple twitter accounts (one twitter account per blog)
+ # Summary in statistics dialog (number os posts, number of comments, number of new comments and so on)
+
+= Future enhancements and ideas =
+
+ # Would it be possible to add option for upload post as private? I suggest add one option publish/savedraft/private. [issue #71]
+ # Change background color, font color and maybe font when editing a new post.
+ # "test connection" option in access point selection/proxy/twitter setup
+ # to upload also movies and other kind of files to his / her wordpress blog. There are many live-streaming apps allowing you to post / stream video directly from your mobile (CellSpin, Qik, LiveCliq, Flixwagon), but none of them is really helping when it comes to edit text or to arrange the post page.
+ # Also adding .pdf or .doc to your webbased wordpress blog
+ # Image selection with thumbnails support
+ # Avoid app to be terminates when the red key is pressed
+ # Icons for indicating the post status: draft, local, edited or just remote
+ # blogger support
+ # Default button label customizations with uikludges/uitricks
+ # html support when editing comments
+ # better icon for "about" menu entry
+ # calendar view, showing days with posts
+ # preview option in other places, like post title window, not only inside post contents
+ # allow categories inclusion inside post edit window
+ # sub categories support
+ # search in posts
+ # batch operations (multiple selection for deleting and approving, for instance)
+ # create a css for better post preview
+ # add title in html (post preview)
+ # better exception handler, providing more elucidative messages
+ # retry option when uploading images
+ # custom entries for html formatting.I think it is possible to add this option and make the blogger life easier with all their tags already coded in some "custom" menu.
+ # better camera support when taking photos
+ # Offline comments
+ # Offline category/TAGs creation
+ # Edit permalinks
+ # Threaded comment
